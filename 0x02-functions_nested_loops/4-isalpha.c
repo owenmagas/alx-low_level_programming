@@ -11,7 +11,7 @@
 int _isalpha(int c)
 {
 
-	char lower, upper;	
+	char lower, upper;
 	int isletter = 0;
 
 	for (lower = 'a'; lower <= 'z'; lower++)
