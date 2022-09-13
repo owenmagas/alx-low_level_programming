@@ -1,6 +1,5 @@
 #include "main.h"
 
-
 /**
 * add - Check Holberton
 * @a: An integer a
@@ -11,7 +10,5 @@
 
 int add(int a, int b)
 {
-
 	return (a + b);
-
 }
