@@ -1,7 +1,4 @@
-nclude <unistd.h>
-
 #include "main.h"
-
 
 /**
 * main - Check description
