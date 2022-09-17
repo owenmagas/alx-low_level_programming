@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
 * _isdigit - checks if parameter is a number between 0 and 9
